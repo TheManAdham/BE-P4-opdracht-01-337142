@@ -14,3 +14,10 @@ th, td {
     padding:.2em;
     background-color: rgb(163, 239, 239);
 }
+
+.center-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
